@@ -1,0 +1,5 @@
+npm init//include node modules
+npm start app
+
+// database (localhost)
+database:abc
